@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="camera_detail" />
+    <drawable name="recycler_detail" />
+    <drawable name="date_detail" />
+    <drawable name="edit_detail" />
+    <drawable name="rating_detail" />
+</resources>
